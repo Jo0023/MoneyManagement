@@ -1,4 +1,5 @@
 # MoneyManagement
+##C'est une application
 基于Android stdio的家庭理财app
 
 ![main.png](img.png)
